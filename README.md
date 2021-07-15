@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is a joint repository of [Gaurav](https://github.com/VortexExpansion) and [Chinmay](https://github.com/bchinmay-star) containing all post Hackathon submissions.
 <!--
 **VcodeOrganic/VcodeOrganic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
